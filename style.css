@@ -1,0 +1,58 @@
+° {
+    margin: 0;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+header {
+    background-color: brown;
+    padding: 14px;
+    color: cornsilk;
+    text-align: center;
+}
+
+main {
+    padding: 30px 50px;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.lineInput {
+    display: grid;
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: 0;
+}
+
+button {
+    border: 0px;
+    padding: 10px;
+    color: brown;
+}
+
+.content {
+    margin-top: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 60%;
+}
+
+table th {
+    background-color: white;
+}
